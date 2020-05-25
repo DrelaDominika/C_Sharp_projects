@@ -31,7 +31,6 @@ namespace zmianaznakow
                 Console.WriteLine();
 
 
-
             }
             Console.ReadLine();
         }
